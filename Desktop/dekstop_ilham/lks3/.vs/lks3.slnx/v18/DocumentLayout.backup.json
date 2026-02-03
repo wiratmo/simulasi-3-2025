@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\lks3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF012DA7-BB7D-40DE-AEB2-46AE8B036BE6}|lks3\\lks3.csproj|c:\\users\\acer\\source\\repos\\lks3\\lks3\\views\\tableseatingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BF012DA7-BB7D-40DE-AEB2-46AE8B036BE6}|lks3\\lks3.csproj|solutionrelative:lks3\\views\\tableseatingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF012DA7-BB7D-40DE-AEB2-46AE8B036BE6}|lks3\\lks3.csproj|c:\\users\\acer\\source\\repos\\lks3\\lks3\\views\\historyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF012DA7-BB7D-40DE-AEB2-46AE8B036BE6}|lks3\\lks3.csproj|solutionrelative:lks3\\views\\historyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF012DA7-BB7D-40DE-AEB2-46AE8B036BE6}|lks3\\lks3.csproj|c:\\users\\acer\\source\\repos\\lks3\\lks3\\views\\historyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BF012DA7-BB7D-40DE-AEB2-46AE8B036BE6}|lks3\\lks3.csproj|solutionrelative:lks3\\views\\historyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF012DA7-BB7D-40DE-AEB2-46AE8B036BE6}|lks3\\lks3.csproj|c:\\users\\acer\\source\\repos\\lks3\\lks3\\views\\assigntableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BF012DA7-BB7D-40DE-AEB2-46AE8B036BE6}|lks3\\lks3.csproj|solutionrelative:lks3\\views\\assigntableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF012DA7-BB7D-40DE-AEB2-46AE8B036BE6}|lks3\\lks3.csproj|c:\\users\\acer\\source\\repos\\lks3\\lks3\\views\\assigntableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF012DA7-BB7D-40DE-AEB2-46AE8B036BE6}|lks3\\lks3.csproj|solutionrelative:lks3\\views\\assigntableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF012DA7-BB7D-40DE-AEB2-46AE8B036BE6}|lks3\\lks3.csproj|c:\\users\\acer\\source\\repos\\lks3\\lks3\\views\\tableseatingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF012DA7-BB7D-40DE-AEB2-46AE8B036BE6}|lks3\\lks3.csproj|solutionrelative:lks3\\views\\tableseatingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF012DA7-BB7D-40DE-AEB2-46AE8B036BE6}|lks3\\lks3.csproj|c:\\users\\acer\\source\\repos\\lks3\\lks3\\views\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF012DA7-BB7D-40DE-AEB2-46AE8B036BE6}|lks3\\lks3.csproj|solutionrelative:lks3\\views\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF012DA7-BB7D-40DE-AEB2-46AE8B036BE6}|lks3\\lks3.csproj|c:\\users\\acer\\source\\repos\\lks3\\lks3\\views\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BF012DA7-BB7D-40DE-AEB2-46AE8B036BE6}|lks3\\lks3.csproj|solutionrelative:lks3\\views\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF012DA7-BB7D-40DE-AEB2-46AE8B036BE6}|lks3\\lks3.csproj|c:\\users\\acer\\source\\repos\\lks3\\lks3\\controllers\\historycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF012DA7-BB7D-40DE-AEB2-46AE8B036BE6}|lks3\\lks3.csproj|solutionrelative:lks3\\controllers\\historycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF012DA7-BB7D-40DE-AEB2-46AE8B036BE6}|lks3\\lks3.csproj|c:\\users\\acer\\source\\repos\\lks3\\lks3\\models\\meja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF012DA7-BB7D-40DE-AEB2-46AE8B036BE6}|lks3\\lks3.csproj|solutionrelative:lks3\\models\\meja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF012DA7-BB7D-40DE-AEB2-46AE8B036BE6}|lks3\\lks3.csproj|c:\\users\\acer\\source\\repos\\lks3\\lks3\\views\\tableseatingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BF012DA7-BB7D-40DE-AEB2-46AE8B036BE6}|lks3\\lks3.csproj|solutionrelative:lks3\\views\\tableseatingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF012DA7-BB7D-40DE-AEB2-46AE8B036BE6}|lks3\\lks3.csproj|c:\\users\\acer\\source\\repos\\lks3\\lks3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF012DA7-BB7D-40DE-AEB2-46AE8B036BE6}|lks3\\lks3.csproj|solutionrelative:lks3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HistoryForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\lks3\\lks3\\views\\HistoryForm.cs",
+              "RelativeDocumentMoniker": "lks3\\views\\HistoryForm.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\lks3\\lks3\\views\\HistoryForm.cs [Design]",
+              "RelativeToolTip": "lks3\\views\\HistoryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T01:15:47.895Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HistoryForm.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\lks3\\lks3\\views\\HistoryForm.cs",
+              "RelativeDocumentMoniker": "lks3\\views\\HistoryForm.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\lks3\\lks3\\views\\HistoryForm.cs",
+              "RelativeToolTip": "lks3\\views\\HistoryForm.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAnwBwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T01:58:23.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TableSeatingForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\lks3\\lks3\\views\\TableSeatingForm.cs",
+              "RelativeDocumentMoniker": "lks3\\views\\TableSeatingForm.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\lks3\\lks3\\views\\TableSeatingForm.cs [Design]",
+              "RelativeToolTip": "lks3\\views\\TableSeatingForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T01:15:19.469Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TableSeatingForm.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\lks3\\lks3\\views\\TableSeatingForm.cs",
+              "RelativeDocumentMoniker": "lks3\\views\\TableSeatingForm.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\lks3\\lks3\\views\\TableSeatingForm.cs",
+              "RelativeToolTip": "lks3\\views\\TableSeatingForm.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAvwI8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T04:09:03.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssignTableForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\lks3\\lks3\\views\\AssignTableForm.cs",
+              "RelativeDocumentMoniker": "lks3\\views\\AssignTableForm.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\lks3\\lks3\\views\\AssignTableForm.cs [Design]",
+              "RelativeToolTip": "lks3\\views\\AssignTableForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T04:24:12.938Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssignTableForm.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\lks3\\lks3\\views\\AssignTableForm.cs",
+              "RelativeDocumentMoniker": "lks3\\views\\AssignTableForm.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\lks3\\lks3\\views\\AssignTableForm.cs",
+              "RelativeToolTip": "lks3\\views\\AssignTableForm.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAawD8AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T04:35:52.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MenuForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\lks3\\lks3\\views\\MenuForm.cs",
+              "RelativeDocumentMoniker": "lks3\\views\\MenuForm.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\lks3\\lks3\\views\\MenuForm.cs [Design]",
+              "RelativeToolTip": "lks3\\views\\MenuForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T04:52:53.258Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuForm.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\lks3\\lks3\\views\\MenuForm.cs",
+              "RelativeDocumentMoniker": "lks3\\views\\MenuForm.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\lks3\\lks3\\views\\MenuForm.cs",
+              "RelativeToolTip": "lks3\\views\\MenuForm.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAEwDUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T04:53:05.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HistoryController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\lks3\\lks3\\controllers\\HistoryController.cs",
+              "RelativeDocumentMoniker": "lks3\\controllers\\HistoryController.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\lks3\\lks3\\controllers\\HistoryController.cs",
+              "RelativeToolTip": "lks3\\controllers\\HistoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T04:52:11.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Meja.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\lks3\\lks3\\models\\Meja.cs",
+              "RelativeDocumentMoniker": "lks3\\models\\Meja.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\lks3\\lks3\\models\\Meja.cs",
+              "RelativeToolTip": "lks3\\models\\Meja.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T04:22:12.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TableSeatingDetail.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\lks3\\lks3\\views\\TableSeatingDetail.cs",
+              "RelativeDocumentMoniker": "lks3\\views\\TableSeatingDetail.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\lks3\\lks3\\views\\TableSeatingDetail.cs [Design]",
+              "RelativeToolTip": "lks3\\views\\TableSeatingDetail.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T04:24:30.301Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\lks3\\lks3\\Program.cs",
+              "RelativeDocumentMoniker": "lks3\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\lks3\\lks3\\Program.cs",
+              "RelativeToolTip": "lks3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T01:43:05.88Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

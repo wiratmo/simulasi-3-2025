@@ -1,0 +1,336 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\simulasi2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABB8E7D-02F5-4872-A38D-7D6EACD42D9F}|simulasi2\\simulasi2.csproj|c:\\users\\acer\\source\\repos\\simulasi2\\simulasi2\\repositories\\historyrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ABB8E7D-02F5-4872-A38D-7D6EACD42D9F}|simulasi2\\simulasi2.csproj|solutionrelative:simulasi2\\repositories\\historyrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABB8E7D-02F5-4872-A38D-7D6EACD42D9F}|simulasi2\\simulasi2.csproj|c:\\users\\acer\\source\\repos\\simulasi2\\simulasi2\\ui\\usercontrols\\uchistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ABB8E7D-02F5-4872-A38D-7D6EACD42D9F}|simulasi2\\simulasi2.csproj|solutionrelative:simulasi2\\ui\\usercontrols\\uchistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABB8E7D-02F5-4872-A38D-7D6EACD42D9F}|simulasi2\\simulasi2.csproj|c:\\users\\acer\\source\\repos\\simulasi2\\simulasi2\\ui\\usercontrols\\uchistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1ABB8E7D-02F5-4872-A38D-7D6EACD42D9F}|simulasi2\\simulasi2.csproj|solutionrelative:simulasi2\\ui\\usercontrols\\uchistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABB8E7D-02F5-4872-A38D-7D6EACD42D9F}|simulasi2\\simulasi2.csproj|c:\\users\\acer\\source\\repos\\simulasi2\\simulasi2\\ui\\usercontrols\\ucmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ABB8E7D-02F5-4872-A38D-7D6EACD42D9F}|simulasi2\\simulasi2.csproj|solutionrelative:simulasi2\\ui\\usercontrols\\ucmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABB8E7D-02F5-4872-A38D-7D6EACD42D9F}|simulasi2\\simulasi2.csproj|c:\\users\\acer\\source\\repos\\simulasi2\\simulasi2\\repositories\\menurepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ABB8E7D-02F5-4872-A38D-7D6EACD42D9F}|simulasi2\\simulasi2.csproj|solutionrelative:simulasi2\\repositories\\menurepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABB8E7D-02F5-4872-A38D-7D6EACD42D9F}|simulasi2\\simulasi2.csproj|c:\\users\\acer\\source\\repos\\simulasi2\\simulasi2\\ui\\usercontrols\\ucmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1ABB8E7D-02F5-4872-A38D-7D6EACD42D9F}|simulasi2\\simulasi2.csproj|solutionrelative:simulasi2\\ui\\usercontrols\\ucmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABB8E7D-02F5-4872-A38D-7D6EACD42D9F}|simulasi2\\simulasi2.csproj|c:\\users\\acer\\source\\repos\\simulasi2\\simulasi2\\ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ABB8E7D-02F5-4872-A38D-7D6EACD42D9F}|simulasi2\\simulasi2.csproj|solutionrelative:simulasi2\\ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABB8E7D-02F5-4872-A38D-7D6EACD42D9F}|simulasi2\\simulasi2.csproj|c:\\users\\acer\\source\\repos\\simulasi2\\simulasi2\\ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1ABB8E7D-02F5-4872-A38D-7D6EACD42D9F}|simulasi2\\simulasi2.csproj|solutionrelative:simulasi2\\ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABB8E7D-02F5-4872-A38D-7D6EACD42D9F}|simulasi2\\simulasi2.csproj|c:\\users\\acer\\source\\repos\\simulasi2\\simulasi2\\helpers\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ABB8E7D-02F5-4872-A38D-7D6EACD42D9F}|simulasi2\\simulasi2.csproj|solutionrelative:simulasi2\\helpers\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABB8E7D-02F5-4872-A38D-7D6EACD42D9F}|simulasi2\\simulasi2.csproj|c:\\users\\acer\\source\\repos\\simulasi2\\simulasi2\\ui\\usercontrols\\uctableseating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1ABB8E7D-02F5-4872-A38D-7D6EACD42D9F}|simulasi2\\simulasi2.csproj|solutionrelative:simulasi2\\ui\\usercontrols\\uctableseating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABB8E7D-02F5-4872-A38D-7D6EACD42D9F}|simulasi2\\simulasi2.csproj|c:\\users\\acer\\source\\repos\\simulasi2\\simulasi2\\repositories\\transactionsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ABB8E7D-02F5-4872-A38D-7D6EACD42D9F}|simulasi2\\simulasi2.csproj|solutionrelative:simulasi2\\repositories\\transactionsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABB8E7D-02F5-4872-A38D-7D6EACD42D9F}|simulasi2\\simulasi2.csproj|c:\\users\\acer\\source\\repos\\simulasi2\\simulasi2\\models\\transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ABB8E7D-02F5-4872-A38D-7D6EACD42D9F}|simulasi2\\simulasi2.csproj|solutionrelative:simulasi2\\models\\transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABB8E7D-02F5-4872-A38D-7D6EACD42D9F}|simulasi2\\simulasi2.csproj|c:\\users\\acer\\source\\repos\\simulasi2\\simulasi2\\ui\\assigntableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1ABB8E7D-02F5-4872-A38D-7D6EACD42D9F}|simulasi2\\simulasi2.csproj|solutionrelative:simulasi2\\ui\\assigntableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABB8E7D-02F5-4872-A38D-7D6EACD42D9F}|simulasi2\\simulasi2.csproj|c:\\users\\acer\\source\\repos\\simulasi2\\simulasi2\\ui\\tableseatingdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1ABB8E7D-02F5-4872-A38D-7D6EACD42D9F}|simulasi2\\simulasi2.csproj|solutionrelative:simulasi2\\ui\\tableseatingdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABB8E7D-02F5-4872-A38D-7D6EACD42D9F}|simulasi2\\simulasi2.csproj|c:\\users\\acer\\source\\repos\\simulasi2\\simulasi2\\ui\\tableseatingdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ABB8E7D-02F5-4872-A38D-7D6EACD42D9F}|simulasi2\\simulasi2.csproj|solutionrelative:simulasi2\\ui\\tableseatingdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABB8E7D-02F5-4872-A38D-7D6EACD42D9F}|simulasi2\\simulasi2.csproj|c:\\users\\acer\\source\\repos\\simulasi2\\simulasi2\\ui\\assigntableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ABB8E7D-02F5-4872-A38D-7D6EACD42D9F}|simulasi2\\simulasi2.csproj|solutionrelative:simulasi2\\ui\\assigntableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABB8E7D-02F5-4872-A38D-7D6EACD42D9F}|simulasi2\\simulasi2.csproj|c:\\users\\acer\\source\\repos\\simulasi2\\simulasi2\\ui\\usercontrols\\uctableseating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ABB8E7D-02F5-4872-A38D-7D6EACD42D9F}|simulasi2\\simulasi2.csproj|solutionrelative:simulasi2\\ui\\usercontrols\\uctableseating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABB8E7D-02F5-4872-A38D-7D6EACD42D9F}|simulasi2\\simulasi2.csproj|c:\\users\\acer\\source\\repos\\simulasi2\\simulasi2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ABB8E7D-02F5-4872-A38D-7D6EACD42D9F}|simulasi2\\simulasi2.csproj|solutionrelative:simulasi2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABB8E7D-02F5-4872-A38D-7D6EACD42D9F}|simulasi2\\simulasi2.csproj|c:\\users\\acer\\source\\repos\\simulasi2\\simulasi2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1ABB8E7D-02F5-4872-A38D-7D6EACD42D9F}|simulasi2\\simulasi2.csproj|solutionrelative:simulasi2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UCHistory.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\simulasi2\\simulasi2\\ui\\UserControls\\UCHistory.cs",
+              "RelativeDocumentMoniker": "simulasi2\\ui\\UserControls\\UCHistory.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\simulasi2\\simulasi2\\ui\\UserControls\\UCHistory.cs",
+              "RelativeToolTip": "simulasi2\\ui\\UserControls\\UCHistory.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowDAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T04:22:51.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HistoryRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\simulasi2\\simulasi2\\Repositories\\HistoryRepo.cs",
+              "RelativeDocumentMoniker": "simulasi2\\Repositories\\HistoryRepo.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\simulasi2\\simulasi2\\Repositories\\HistoryRepo.cs",
+              "RelativeToolTip": "simulasi2\\Repositories\\HistoryRepo.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T03:54:53.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UCMenu.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\simulasi2\\simulasi2\\ui\\UserControls\\UCMenu.cs",
+              "RelativeDocumentMoniker": "simulasi2\\ui\\UserControls\\UCMenu.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\simulasi2\\simulasi2\\ui\\UserControls\\UCMenu.cs",
+              "RelativeToolTip": "simulasi2\\ui\\UserControls\\UCMenu.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T03:43:50.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UCMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\simulasi2\\simulasi2\\ui\\UserControls\\UCMenu.cs",
+              "RelativeDocumentMoniker": "simulasi2\\ui\\UserControls\\UCMenu.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\simulasi2\\simulasi2\\ui\\UserControls\\UCMenu.cs [Design]",
+              "RelativeToolTip": "simulasi2\\ui\\UserControls\\UCMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T01:14:44.784Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\simulasi2\\simulasi2\\ui\\MainForm.cs",
+              "RelativeDocumentMoniker": "simulasi2\\ui\\MainForm.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\simulasi2\\simulasi2\\ui\\MainForm.cs",
+              "RelativeToolTip": "simulasi2\\ui\\MainForm.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T01:31:56.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\simulasi2\\simulasi2\\Repositories\\MenuRepo.cs",
+              "RelativeDocumentMoniker": "simulasi2\\Repositories\\MenuRepo.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\simulasi2\\simulasi2\\Repositories\\MenuRepo.cs",
+              "RelativeToolTip": "simulasi2\\Repositories\\MenuRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T02:19:04.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UCHistory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\simulasi2\\simulasi2\\ui\\UserControls\\UCHistory.cs",
+              "RelativeDocumentMoniker": "simulasi2\\ui\\UserControls\\UCHistory.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\simulasi2\\simulasi2\\ui\\UserControls\\UCHistory.cs [Design]",
+              "RelativeToolTip": "simulasi2\\ui\\UserControls\\UCHistory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T01:14:56.013Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\simulasi2\\simulasi2\\ui\\MainForm.cs",
+              "RelativeDocumentMoniker": "simulasi2\\ui\\MainForm.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\simulasi2\\simulasi2\\ui\\MainForm.cs [Design]",
+              "RelativeToolTip": "simulasi2\\ui\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T01:08:36.369Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DbHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\simulasi2\\simulasi2\\Helpers\\DbHelper.cs",
+              "RelativeDocumentMoniker": "simulasi2\\Helpers\\DbHelper.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\simulasi2\\simulasi2\\Helpers\\DbHelper.cs",
+              "RelativeToolTip": "simulasi2\\Helpers\\DbHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T00:47:52.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TransactionsRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\simulasi2\\simulasi2\\Repositories\\TransactionsRepo.cs",
+              "RelativeDocumentMoniker": "simulasi2\\Repositories\\TransactionsRepo.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\simulasi2\\simulasi2\\Repositories\\TransactionsRepo.cs",
+              "RelativeToolTip": "simulasi2\\Repositories\\TransactionsRepo.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T01:49:53.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Transactions.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\simulasi2\\simulasi2\\Models\\Transactions.cs",
+              "RelativeDocumentMoniker": "simulasi2\\Models\\Transactions.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\simulasi2\\simulasi2\\Models\\Transactions.cs",
+              "RelativeToolTip": "simulasi2\\Models\\Transactions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T01:47:46.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UCTableSeating.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\simulasi2\\simulasi2\\ui\\UserControls\\UCTableSeating.cs",
+              "RelativeDocumentMoniker": "simulasi2\\ui\\UserControls\\UCTableSeating.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\simulasi2\\simulasi2\\ui\\UserControls\\UCTableSeating.cs [Design]",
+              "RelativeToolTip": "simulasi2\\ui\\UserControls\\UCTableSeating.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T01:14:31.33Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AssignTableForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\simulasi2\\simulasi2\\ui\\AssignTableForm.cs",
+              "RelativeDocumentMoniker": "simulasi2\\ui\\AssignTableForm.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\simulasi2\\simulasi2\\ui\\AssignTableForm.cs [Design]",
+              "RelativeToolTip": "simulasi2\\ui\\AssignTableForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T01:37:48.052Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TableSeatingDetailForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\simulasi2\\simulasi2\\ui\\TableSeatingDetailForm.cs",
+              "RelativeDocumentMoniker": "simulasi2\\ui\\TableSeatingDetailForm.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\simulasi2\\simulasi2\\ui\\TableSeatingDetailForm.cs [Design]",
+              "RelativeToolTip": "simulasi2\\ui\\TableSeatingDetailForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T01:38:17.275Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TableSeatingDetailForm.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\simulasi2\\simulasi2\\ui\\TableSeatingDetailForm.cs",
+              "RelativeDocumentMoniker": "simulasi2\\ui\\TableSeatingDetailForm.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\simulasi2\\simulasi2\\ui\\TableSeatingDetailForm.cs",
+              "RelativeToolTip": "simulasi2\\ui\\TableSeatingDetailForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T01:42:51.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AssignTableForm.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\simulasi2\\simulasi2\\ui\\AssignTableForm.cs",
+              "RelativeDocumentMoniker": "simulasi2\\ui\\AssignTableForm.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\simulasi2\\simulasi2\\ui\\AssignTableForm.cs",
+              "RelativeToolTip": "simulasi2\\ui\\AssignTableForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T01:39:19.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UCTableSeating.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\simulasi2\\simulasi2\\ui\\UserControls\\UCTableSeating.cs",
+              "RelativeDocumentMoniker": "simulasi2\\ui\\UserControls\\UCTableSeating.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\simulasi2\\simulasi2\\ui\\UserControls\\UCTableSeating.cs",
+              "RelativeToolTip": "simulasi2\\ui\\UserControls\\UCTableSeating.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T01:17:22.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\simulasi2\\simulasi2\\Program.cs",
+              "RelativeDocumentMoniker": "simulasi2\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\simulasi2\\simulasi2\\Program.cs",
+              "RelativeToolTip": "simulasi2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T01:08:41.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\simulasi2\\simulasi2\\Form1.cs",
+              "RelativeDocumentMoniker": "simulasi2\\Form1.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\simulasi2\\simulasi2\\Form1.cs [Design]",
+              "RelativeToolTip": "simulasi2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T00:43:43.312Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ui\AssignTableForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ui\HistoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ui\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ui\MenuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ui\TableSeatingDetailForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ui\UserControls\UCHistory.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ui\UserControls\UCMenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ui\UserControls\UCTableSeating.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
